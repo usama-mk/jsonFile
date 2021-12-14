@@ -1,30 +1,21 @@
 {
   "users": [{
   {
-  id: 001,
-  username: "Usama",
-  password: "usama123"
+  "id": "001",
+  "username": "Usama",
+  "password": "usama123"
   },
   {
-  id: 002,
-  username: "Sohaib",
-  password: "sohaibxx11"
+  "id": "002",
+  "username": "Sohaib",
+  "password": "usama123"
   },
   {
-  id: 003,
-  username: "shuja",
-  password: "shuja1932"
+  "id": "003",
+  "username": "Shuja",
+  "password": "usama123"
   },
-  {
-  id: 007,
-  username: "Nouman",
-  password: "nouman007"
-  },
-  {
-  id: 005,
-  username: "Majeed",
-  password: "majeed123"
-  },
+  
 }]
 
 }
